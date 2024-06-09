@@ -1,0 +1,2 @@
+# FastApi
+Api wey fast
